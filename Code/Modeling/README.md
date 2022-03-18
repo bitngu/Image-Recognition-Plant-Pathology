@@ -1,3 +1,1 @@
-# Image-Classification
-# Plant-Classification
-# Plant-Classification
+# Plant Pathology Classification
